@@ -1,0 +1,11 @@
+PyQt6
+SpeechRecognition
+pyttsx3
+spotipy
+pyautogui
+psutil
+python-dotenv
+Pillow
+pyaudio
+requests
+pywin32
